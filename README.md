@@ -23,4 +23,5 @@ Projeto Final da Cadeira de Programação Orientada a Objetos
 ## Tecnologias Utilizadas
 
 - **Linguagem**: Java
-- **Banco de Dados**: SQL Server
+- **Banco de Dados**: MySQL
+
